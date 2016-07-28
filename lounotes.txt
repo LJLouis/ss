@@ -1,0 +1,24 @@
+Cascading Style Sheets
+_______________________
+
+Display Values
+
+    *Inline - maximizes "just enough width and height "
+    *Block - can set height and size
+    *Inline Block - combines the two properties
+    *None - removes from page
+
+HTML
+_______________________
+
+Element Tags
+    Block Elements
+        *<div>  The <div> element is often used as a container for other HTML elements.
+                The <div> element has no required attributes, but both styles and class are common.                                                                0
+        *<form>
+        *<h1-h6>
+    Inline Elements
+        *<span> The <span> element is often used as a container for some text.
+                The <span> element has no required attributes, but both styles and class are common.
+        *<a>
+        *<img>
