@@ -1,0 +1,45 @@
+table{text-align:center;display:inline-table;
+    font-style: normal;
+    border-collapse: separate;
+    border-spacing: 100px 0;
+}
+td {
+    padding: 50px 0;}
+
+body {
+    background-color: mintcream;
+}
+h1{
+    text-align: center;
+    font-family: "Courier New", serif,Helvitica;
+    font-size: 35px;
+}
+h2{ font-style: oblique;
+    text-align: left;
+    font-size: 30px;
+}
+
+ul{ display: inline-block;
+    font-size:20px;}
+
+div{
+    font-family: cursive;
+    border: thick;}
+
+div.centerpage{text-align:center;}
+
+span{background-color:#000000;
+                color:#ffffff;
+    font-family: "MS PGothic";
+    text-align: center;
+    font-size:25px;
+    display:block;
+    width:1000px;
+}
+
+a{font-family: "Franklin Gothic Medium";
+    font-size: 33px;font-style: normal;font-variant-caps: small-caps;color: #ff8c00
+}
+ol{font-size:18px;text-align:left;
+}
+header{text-align: center;}
