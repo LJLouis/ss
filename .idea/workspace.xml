@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99a45ed-e155-4dec-ba18-22668563713d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SS.html.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Html-master/p center.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/Html-master/SS.html" afterPath="$USER_HOME$/Desktop/Html-master/SS.html" />
     </list>
     <ignored path="SS.html.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +55,8 @@
       <file leaf-file-name="SS.html" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/Html-master/SS.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-629">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            <state relative-caret-position="400">
+              <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#header#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -108,8 +104,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$USER_HOME$/Desktop/Html-master/p center.css" />
         <option value="$USER_HOME$/Desktop/Html-master/css/pcenter.css" />
-        <option value="$USER_HOME$/Desktop/Html-master/SS.html" />
         <option value="$USER_HOME$/Desktop/Html-master/css/main.css" />
+        <option value="$USER_HOME$/Desktop/Html-master/SS.html" />
       </list>
     </option>
   </component>
@@ -248,12 +244,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469718787056</updated>
-      <workItem from="1469718788471" duration="20427000" />
+      <workItem from="1469718788471" duration="21399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20427000" />
+    <option name="totallyTimeSpent" value="21399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,8 +378,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/Html-master/SS.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-629">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="400">
+          <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#table#0;n#header#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
